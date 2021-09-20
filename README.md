@@ -12,7 +12,7 @@ Skill Stack:
 - SQL
 - HTML
 - CSS
-- XML(SVG)
+- XML`SVG` `Android Layout` `API` `RSS Feed`
 - LaTex
 - Mathematica
 <!---
