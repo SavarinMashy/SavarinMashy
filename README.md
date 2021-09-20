@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @SavarinMashy
+- 🧑🏽‍💻 Check out my [website](url)
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Javascript
 
 Skill Stack:
 - Java
 - JavaScript
-- ~~Python~~
-- ~~React~~
-- ~~React Native~~
-- ~~SQL~~
+- Python
+- React
+- React Native
+- SQL
 - HTML
 - CSS
 - XML(SVG)
