@@ -1,4 +1,4 @@
-- 👋 Hello, glad you found my page. You will mostly find me on the interwebs as @Savarin (An anagram of a subset of characters of my name). My pronouns are (He/Him). I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon
+- 👋 Hello, glad you found my page. You will mostly find me on the interwebs as @Savarin (An anagram of a subset of characters of my name). I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon
 - 👀 I’m interested in data science, technical analysis(finance), and full stack development
 
 ```JSON
