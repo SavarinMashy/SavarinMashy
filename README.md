@@ -1,14 +1,21 @@
-- 👋 Hello, glad you found my page. You will mostly find me on the interwebs as @Savarin (An anagram of a subset of characters of my name). I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon
-- 👀 I’m interested in data science, technical analysis(finance), and full stack development
+### 👋, glad you found my page. 
+---
 
-```JSON
-{
-"Name": "coming soon",
-"Alias": "Savarin",
-"Website": "xyz.comingsoon"
-"Contact": "comingsoon@soon.edu"
-}
+- You will mostly find me on the interwebs as @Savarin (An anagram of a subset of characters of my name). I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon. 
+- **`<`** :smiley: **`>`** I’m interested in data science, technical analysis(finance), and full stack development **`</`** :smiley: **`>`**
+
+```Python
+coming soon = {
+
+  "alias": Soon,
+  "website": Hmmm,
+  "contact": 1999 
+  
+  }
 ```
+
+Humble brag:
+My profiles:
 
 Skill Stack:
 - Java
