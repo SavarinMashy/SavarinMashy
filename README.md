@@ -3,6 +3,14 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Javascript
 
+```JSON
+{
+"Name": Sanjay Shivakumar
+"Alias": Savarin
+"Website": xyz.comingsoon
+}
+```
+
 Skill Stack:
 - Java
 - JavaScript
