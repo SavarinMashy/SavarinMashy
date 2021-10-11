@@ -2,16 +2,16 @@
 ---
 
 ```Python
-coming soon = {
+sanjayShivakumar = {
 
-  "alias": Soon,
-  "Major": Hmmm,
-  "Minor": 1999 
+  "Alias": Savarin,
+  "Major": Mathematics,
+  "Minor": Economics 
   
   }
 ```
 
-- You will mostly find me on the interwebs as @Savarin (An anagram of a subset of characters of my name). I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon. 
+- Currently a senior studying in the univ-mass-amh I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon. 
 - **`<`** :smiley: **`>`** I’m interested in data science, technical analysis(finance), and full stack development **`</`** :smiley: **`>`**
 
 Humble brag:
