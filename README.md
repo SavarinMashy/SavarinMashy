@@ -1,6 +1,4 @@
 ### 👋 Glad you found my page
----
-
 ```Python
 s---yS---ar = {
 
@@ -11,7 +9,9 @@ s---yS---ar = {
   }
 ```
 
-- Currently a senior studying in the univ-mass-amh I'm actively looking for a job; if you happen to be a recruiter you can contact me at : xyz.comingsoon. 
+---
+
+- Currently a senior studying in the univ-mass-amh
 - **`<`** :smiley: **`>`** I’m interested in data science, technical analysis(finance), and full stack development **`</`** :smiley: **`>`**
 
 Humble brag:
