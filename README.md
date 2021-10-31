@@ -25,6 +25,7 @@ Skill Stack:
 - React Native
 - SQL
 - HTML
+- Docker
 - CSS
 - XML`SVG` `Android Layout` `API` `RSS Feed`
 - LaTex
