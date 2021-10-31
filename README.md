@@ -4,7 +4,7 @@ s---yS---ar = {
 
   "Alias": Savarin,
   "Major": Mathematics,
-  "Minor": Economics 
+  "Interests": [ Photography, Design, Opsec ]
   
   }
 ```
