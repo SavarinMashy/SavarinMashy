@@ -1,4 +1,4 @@
-### 👋 Glad you found my page (っ◕‿◕)っ
+### 👋 Glad you found my page
 ```Python
 s---yS---ar = {
 
