@@ -1,6 +1,5 @@
 ### 👋 Glad you found my page
 ```Python
-# (っ◕‿◕)っ
 s---yS---ar = {
 
   "Alias": Savarin,
