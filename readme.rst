@@ -1,4 +1,9 @@
-### 👋 Glad you found my page
+
+| Lend us a couple of bob till Thursday.
+| I'm absolutely skint.
+| But I'm expecting a postal order and I can pay you back
+  as soon as it comes.
+| Love, Ewan.
 
   Sanjay Shivakumar = { 
 |   ``'Alias': Savarin,``  
@@ -10,24 +15,39 @@
    :language: bash
 Here is some awesome bash code :bash:`a = b + c`.
 
-  Make sure previous paragraph does not end with ``::``.
-  
-  .. image:: path/filename.png
+Make sure previous paragraph does not end with ``::``.
 
-+-------+----------+------+
-| Table Headings   | Here |
-+-------+----------+------+
-| Sub   | Headings | Too  |
-+=======+==========+======+
-| cell  | column spanning |
-+ spans +----------+------+
-| rows  | normal   | cell |
-+-------+----------+------+
-| multi | * cells can be  |
-| line  | * formatted     |
-| cells | * paragraphs    |
-| too   |                 |
-+-------+-----------------+
+
++-------+----------+------------------+
+| 👋 Glad you found my profile         |
++-------+----------+------------------+
+| Sub   | Headings | Too              |
++=======+==========+==================+
+| cell  | column spanning             |
++ spans +----------+------------------+
+| rows  | normal   | cell             |
++-------+----------+------------------+
+| multi | .. image:: Assets/planet.gif|
+| line  | * formatted                 |
+| cells | * paragraphs                |
+| too   |                             |
++-------+-----------------------------+
+
+
++-------+----------+------------------+
+| Table Headings   | Here             |
++-------+----------+------------------+
+| Sub   | Headings | Too              |
++=======+==========+==================+
+| cell  | column spanning             |
++ spans +----------+------------------+
+| rows  | normal   | cell             |
++-------+----------+------------------+
+| multi | .. image:: Assets/planet.gif|
+| line  | * formatted                 |
+| cells | * paragraphs                |
+| too   |                             |
++-------+-----------------------------+
 
 
 ---
