@@ -1,11 +1,15 @@
 ### 👋 Glad you found my page
 
-> Sanjay Shivakumar = { 
-|   ``'Alias': Savarin,` 
-|   ``'Major': Mathematics,`` 
+  Sanjay Shivakumar = { 
+|   ``'Alias': Savarin,``  
+|   ``'Major': Mathematics,``  
 |   ``"Interests": [ Photography, Design, Opsec ]``
 |   }
   
+.. role:: bash(code)
+   :language: bash
+Here is some awesome bash code :bash:`a = b + c`.
+
   Make sure previous paragraph does not end with ``::``.
   
   .. image:: path/filename.png
