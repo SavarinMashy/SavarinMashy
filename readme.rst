@@ -8,8 +8,29 @@
   Sanjay Shivakumar = { 
 |   ``'Alias': Savarin,``  
 |   ``'Major': Mathematics,``  
-|   ``"Interests": [ Photography, Design, Opsec ]``
+|   ``'Interests': [ Photography, Design, Opsec ]``
 |   }
+
+
+  Sanjay Shivakumar = { 
+  
+.. code:: python
+
+ 'Alias': Savarin
+ 'Major': Mathematics,
+ 'Interests': [ Photography, Design, Opsec ]
+  
+  
+
+.. container:: twocol
+
+   .. container:: leftside
+
+      .. figure:: Assets/walk.gif
+
+   .. container:: rightside
+
+      Bla-bla-blah, and yada-yada.
   
 .. role:: bash(code)
    :language: bash
@@ -18,8 +39,9 @@ Here is some awesome bash code :bash:`a = b + c`.
 Make sure previous paragraph does not end with ``::``.
 
 
-+-------+----------+------------------+
-| 👋 Glad you found my profile         |
++-------+----------+------------------+--------------------------+
+|.. image:: Assets/walk.gif           |
+|Hello.                               |
 +-------+----------+------------------+
 | Sub   | Headings | Too              |
 +=======+==========+==================+
