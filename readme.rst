@@ -21,7 +21,7 @@
 
 .. |p| raw:: html
 
-  <a href="sanjayshivakumar.com"><img src="Assets/terran.gif" align="center"></a>
+  <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a>
   <h3 align = "center"> 私&nbsp <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
 
 
