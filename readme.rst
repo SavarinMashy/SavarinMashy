@@ -1,47 +1,25 @@
 
 
-  Sanjay Shivakumar = { 
-|   ``'Alias': Savarin,``  
-|   ``'Major': Mathematics,``  
+  Sanjay Shivakumar = {::
+   ``'Alias': Savarin,``
+   ``'Major': Mathematics,``  
 |   ``'Interests': [ Photography, Design, Opsec ]``
 |   }
 
 
   Sanjay Shivakumar = { 
   
-.. code:: python
+.. code:: CSS
 
-  Sanjay Shivakumar = { 
-   'Alias': Savarin
-   'Major': Mathematics,
-   'Interests': [ Photography, Design, Opsec ]
-  }
+.Sanjay Shivakumar { 
+   
   
-  
-
-.. container:: twocol
-
-   .. container:: leftside
-
-      .. figure:: Assets/walk.gif
-
-   .. container:: rightside
-
-      Bla-bla-blah, and yada-yada.
-  
-.. role:: bash(code)
-   :language: bash
-Here is some awesome bash code :bash:`a = b + c`.
-
-Make sure previous paragraph does not end with ``::``.
-
 
 +-------+----------+------------------+--------------------------------------------------------------------------------------------+
-|.. image:: Assets/walk.gif                                                                                                        |
 |Hello.                                                                                                                            |
-+-------+----------+---------------------------------------------------------------------------------------------------------------+
-| Sub   | Headings | Too                                                                                                           |
-+=======+==========+===============================================================================================================+
++--------------------------+----------+--------------------------------------------------------------------------------------------+
+|.. image:: Assets/walk.gif| Headings | Too                                                                                        |
++=======+==================+==========+============================================================================================+
 | cell  | column spanning                                                                                                          |
 + spans +----------+---------------------------------------------------------------------------------------------------------------+
 | rows  | normal   | cell                                                                                                          |
@@ -54,8 +32,7 @@ Make sure previous paragraph does not end with ``::``.
 
 
 +-------+----------+------------------+--------------------------------------------------------------------------------------------+
-|.. image:: Assets/walk.gif                                                                                                        |
-|Hello.                                                                                                                            |
+|Glad you found my profile 🙃                                                                                                       |
 +-------+----------+---------------------------------------------------------------------------------------------------------------+
 | Sub   | Headings | Too                                                                                                           |
 +=======+==========+===============================================================================================================+
@@ -70,27 +47,10 @@ Make sure previous paragraph does not end with ``::``.
 |   'Major': Mathematics,|                                                                                                         |
 +------------------------+---------------------------------------------------------------------------------------------------------+
 
-
-+-------+----------+------------------+
-| Table Headings   | Here             |
-+-------+----------+------------------+
-| Sub   | Headings | Too              |
-+=======+==========+==================+
-| cell  | column spanning             |
-+ spans +----------+------------------+
-| rows  | normal   | cell             |
-+-------+----------+------------------+
-| multi | .. image:: Assets/planet.gif|
-| line  | * formatted                 |
-| cells | * paragraphs                |
-| too   |                             |
-+-------+-----------------------------+
-
-
 ---
 
 - Senior mathematics major with a concentration in computing at the University of Massachusetts Amherst
-- **`< 🙂 >`** I’m interested in data science, technical analysis(finance), and full stack development **`</ 🙃 >`**
+- ``**< 🙂 >** I’m interested in data science, technical analysis(finance), and full stack development **</ 🙃 >**``
 
 Humble brag:
 My profiles:
