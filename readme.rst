@@ -53,46 +53,41 @@
 
  <samp>Inclined toward front-end development, however, I'm quite versatile and<br>
  interested in data science, technical analysis, and full-stack development</samp>
-
+ 
 Get in touch
 =======
 
-. _an anchor:
+.. raw:: html
 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sashiku.sashiku">
 
-`A heading`_ 
-============
-   
-
-Humble brag:
-My profiles:
-
-Skill Stack:
-- Java
-- JavaScript
-- Python
-- React
-- React Native
-- SQL
-- HTML
-- Docker
-- CSS
-- XML`SVG` `Android Layout` `API` `RSS Feed`
-- LaTex
-- Mathematica
-
-Learning:
-- Apple Script
-- Zsh
-- Krunk Script
-- C++
-
-Playing with
-
-Relevant Course-work:
-- Linear Algebra
-- Discrete Mathematics
-- Geometric Topology
-
-view all tooling   ``'Alias': Savarin,``
-✨
+.. . _an anchor:
+  `A heading`_ 
+ ============
+ Humble brag:
+ My profiles:
+ Skill Stack:
+ - Java
+ - JavaScript
+ - Python
+ - React
+ - React Native
+ - SQL
+ - HTML
+ - Docker
+ - CSS
+ - XML`SVG` `Android Layout` `API` `RSS Feed`
+ - LaTex
+ - Mathematica
+ Learning:
+ - Apple Script
+ - Zsh
+ - Krunk Script
+ - C++
+ Playing with
+ Relevant Course-work:
+ - Linear Algebra
+ - Discrete Mathematics
+ - Geometric Topology
+ view all tooling   ``'Alias': Savarin,``
+ ✨
