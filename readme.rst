@@ -1,7 +1,7 @@
 +-------+----------+---------------------------------------------------------------------------------------------------------------+
 | |d|                                                                                                                              |
 +=======+==========================================================================================================================+
-| |p|   | 📸                                                                                                                        |
+| |p|   | |di|                                                                                                                     |
 +       +                                                                                                                          +
 +       + .. code-block:: python                                                                                                   +
 +       +                                                                                                                          +
@@ -37,16 +37,11 @@
    :target: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true
 
 
-A normal paragraph ending with ``::`` will flow and be word-wrapped::
+.. |di| raw:: html
 
-    If the next paragraph is indented by four or more spaces, 
-
-    You can have multiple paragraphs like this, as long as they
-    are all indented by the same amount.
-    
-.. code-block:: php
-
-   $a = 'b';
+  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
+  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
+  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
    
 ---
 
