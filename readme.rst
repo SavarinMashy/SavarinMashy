@@ -1,3 +1,6 @@
+.. table::
+   :align: center
+
 +-------+--------------------------------------------------------------------------------------------------------------------------+
 | |d|                                                                                                                              |
 +=======+==========================================================================================================================+
@@ -48,18 +51,11 @@
    
 .. raw:: html
 
- <samp>I’m inclined toward front end development, however, I'm quite versatile and<br>
- interested in data science, technical analysis, and full stack development</samp>
+ <samp>Inclined toward front-end development, however, I'm quite versatile and<br>
+ interested in data science, technical analysis, and full-stack development</samp>
 
-
+Get in touch
 =======
-
-  Sanjay Shivakumar = {::
-   ``'Alias': Savarin,``
-   ``'Major': Mathematics,``  
-|   ``'Interests': [ Photography, Design, Opsec ]``
-
-  
 
 . _an anchor:
 
@@ -91,4 +87,12 @@ Learning:
 - Krunk Script
 - C++
 
+Playing with
+
+Relevant Course-work:
+- Linear Algebra
+- Discrete Mathematics
+- Geometric Topology
+
+view all tooling   ``'Alias': Savarin,``
 ✨
