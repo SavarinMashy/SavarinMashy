@@ -1,7 +1,17 @@
 +-------+----------+---------------------------------------------------------------------------------------------------------------+
 | |d|                                                                                                                              |
 +=======+==========================================================================================================================+
-| |p|   | |ye|                                                                                                                     |
+| |p|   | 📸                                                                                                                        |
++       +                                                                                                                          +
++       + .. code-block:: python                                                                                                   +
++       +                                                                                                                          +
++       +  Sanjay_Shivakumar = {                                                                                                   +
++       +      'Alias': Savarin,                                                                                                   +
++       +      'Major': Mathematics,                                                                                               +
++       +      'Concentration': Computing,                                                                                         +
++       +      'Interests': (Design, Photograpy)                                                                                   +
++       +    }                                                                                                                     +
++       +                                                                                                                          +
 +       +--------------------------------------------------------------------------------------------------------------------------+
 |       | |l|                                                                                                                      |
 +       + |c|                                                                                                                      +
@@ -15,7 +25,7 @@
 
 .. |d| raw:: html
 
-  <h3><samp>👋🏽 Glad you found my profile</samp></h3>
+  <h4><samp>👋🏽 Glad you found my profile</samp></h4>
 
 
 .. |l| raw:: html
@@ -25,22 +35,25 @@
   
 .. |c| image:: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false
    :target: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true
-  
-
-.. |ye| code:: sql
-  
-  SELECT *
-  FROM github_statistics
-  WHERE username = 'fuwn';
 
 
+A normal paragraph ending with ``::`` will flow and be word-wrapped::
 
+    If the next paragraph is indented by four or more spaces, 
+
+    You can have multiple paragraphs like this, as long as they
+    are all indented by the same amount.
+    
+.. code-block:: php
+
+   $a = 'b';
+   
 ---
 
 - Senior mathematics major with a concentration in computing at the University of Massachusetts Amherst
 - ``**< 🙂 >** I’m interested in data science, technical analysis(finance), and full stack development **</ 🙃 >**``
 
-
+|ye|
 
   Sanjay Shivakumar = {::
    ``'Alias': Savarin,``
