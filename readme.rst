@@ -41,9 +41,12 @@
 .. |di| raw:: html
 
   <p align = "center"> 
-  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
-  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
-  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/linkin.png" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/copen_l.png#gh-light-mode-only" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/copen_d.png#gh-dark-mode-only" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/unlash_l.png#gh-light-mode-only" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/unlash_d.png#gh-dark-mode-only" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com" title="Figma (Design Showcase)"><img src="Assets/figma.png" height="20px"></a>&nbsp
   </p>
    
 ---
