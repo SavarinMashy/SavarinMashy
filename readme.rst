@@ -7,11 +7,10 @@
 +       +                                                                                                                          +
 +       +  Sanjay_Shivakumar = {                                                                                                   +
 +       +      'Alias': Savarin,                                                                                                   +
-+       +      'Major': Mathematics,                                                                                               +
++       +      'Major': (Mathematics, 2022),                                                                                       +
 +       +      'Concentration': Computing,                                                                                         +
-+       +      'Interests': (Design, Photograpy)                                                                                   +
-+       +    }                                                                                                                     +
-+       +                                                                                                                          +
++       +      'Recreation': [ Design, Photograpy ]                                                                                +
++       +    }  # ¯\_(ツ)_/¯                                                                                                       +
 +       +--------------------------------------------------------------------------------------------------------------------------+
 |       | |l|                                                                                                                      |
 +       + |c|                                                                                                                      +
@@ -43,39 +42,30 @@
   <p align = "center"> 
   <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/linkin.png" width="20px"></a>&nbsp&nbsp
   <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/codpen.png" width="20px"></a>&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/unsash.png" height="19px"></a>&nbsp&nbsp
+  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/unsash.png" width="20px"></a>&nbsp&nbsp
   <a href="sanjayshivakumar.com" title="Figma (Design Showcase)"><img src="Assets/figma.png" height="20px"></a>
   </p>
    
----
+.. raw:: html
 
-- Senior mathematics major with a concentration in computing at the University of Massachusetts Amherst
-- ``**< 🙂 >** I’m interested in data science, technical analysis(finance), and full stack development **</ 🙃 >**``
+ <samp>I’m inclined toward front end development, however, I'm quite versatile and<br>
+ interested in data science, technical analysis, and full stack development</samp>
 
-|ye|
+
+=======
 
   Sanjay Shivakumar = {::
    ``'Alias': Savarin,``
    ``'Major': Mathematics,``  
 |   ``'Interests': [ Photography, Design, Opsec ]``
-|   }
 
-
-  Sanjay Shivakumar = { 
   
 
 . _an anchor:
 
-An *emphasised text*, **strong text** and a ``literal``. Link to
-`Google <https://google.com>`_, `the heading below <#a-heading>`_ or just an
-URL as-is: https://mcss.mosra.cz/.
 
 `A heading`_ 
 ============
-
-Repeated link to `Google`_. Anonymous links that share the same titles
-`here <http://blog.mosra.cz>`__ and `here <https://magnum.graphics/>`__.
-Link to `an anchor`_ above.
    
 
 Humble brag:
@@ -101,11 +91,4 @@ Learning:
 - Krunk Script
 - C++
 
-.. raw:: html
-
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-
-<!---
-SavarinMashy/SavarinMashy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨
