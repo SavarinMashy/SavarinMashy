@@ -1,4 +1,4 @@
-+-------+----------+---------------------------------------------------------------------------------------------------------------+
++-------+--------------------------------------------------------------------------------------------------------------------------+
 | |d|                                                                                                                              |
 +=======+==========================================================================================================================+
 | |p|   | |di|                                                                                                                     |
@@ -33,15 +33,18 @@
   <h4 align = "center">🧡 <samp>&nbspListening to</samp></h4>
   
   
-.. |c| image:: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false
-   :target: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true
+.. |c| raw:: html
+
+  <p align = "center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"></a></p>
 
 
 .. |di| raw:: html
 
-  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
-  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
-  <a href="sanjayshivakumar.com"><img src="Assets/linked.png" width="20px"></a>
+  <p align = "center"> 
+  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
+  <a href="sanjayshivakumar.com"><img src="Assets/linkedin.png" width="20px"></a>&nbsp
+  </p>
    
 ---
 
