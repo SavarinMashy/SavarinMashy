@@ -1,3 +1,45 @@
++-------+----------+---------------------------------------------------------------------------------------------------------------+
+| |d|                                                                                                                              |
++=======+==========================================================================================================================+
+| |p|   | |ye|                                                                                                                     |
++       +--------------------------------------------------------------------------------------------------------------------------+
+|       | |l|                                                                                                                      |
++       + |c|                                                                                                                      +
++-------+--------------------------------------------------------------------------------------------------------------------------+
+
+.. |p| raw:: html
+
+  <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a>
+  <h3 align = "center"> 私 <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
+
+
+.. |d| raw:: html
+
+  <h3><samp>👋🏽 Glad you found my profile</samp></h3>
+
+
+.. |l| raw:: html
+
+  <h4 align = "center">🧡 <samp>&nbspListening to</samp></h4>
+  
+  
+.. |c| image:: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false
+   :target: https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true
+  
+
+.. |ye| code:: sql
+  
+  SELECT *
+  FROM github_statistics
+  WHERE username = 'fuwn';
+
+
+
+---
+
+- Senior mathematics major with a concentration in computing at the University of Massachusetts Amherst
+- ``**< 🙂 >** I’m interested in data science, technical analysis(finance), and full stack development **</ 🙃 >**``
+
 
 
   Sanjay Shivakumar = {::
@@ -9,9 +51,6 @@
 
   Sanjay Shivakumar = { 
   
-.. code:: CSS
-
-.Sanjay Shivakumar { 
 
 . _an anchor:
 
@@ -19,51 +58,13 @@ An *emphasised text*, **strong text** and a ``literal``. Link to
 `Google <https://google.com>`_, `the heading below <#a-heading>`_ or just an
 URL as-is: https://mcss.mosra.cz/.
 
-`A heading`_
+`A heading`_ 
 ============
 
 Repeated link to `Google`_. Anonymous links that share the same titles
 `here <http://blog.mosra.cz>`__ and `here <https://magnum.graphics/>`__.
 Link to `an anchor`_ above.
    
-  
-
-+-------+----------+------------------+--------------------------------------------------------------------------------------------+
-|Hello.                                                                                                                            |
-+--------------------------+----------+--------------------------------------------------------------------------------------------+
-|.. image:: Assets/walk.gif| Headings | Too                                                                                        |
-+=======+==================+==========+============================================================================================+
-| cell  | column spanning                                                                                                          |
-+ spans +----------+---------------------------------------------------------------------------------------------------------------+
-| rows  | normal   | cell                                                                                                          |
-+-------+----------+---------------------------------------------------------------------------------------------------------------+
-| multi |  .. image:: Assets/planet.gif                                                                                            |
-| line  |                a                                                                                                          |
-| cells |                                                                                                                          |
-| too   |                                                                                                                          |
-+-------+--------------------------------------------------------------------------------------------------------------------------+
-
-
-+-------+----------+------------------+--------------------------------------------------------------------------------------------+
-|Glad you found my profile 🙃                                                                                                       |
-+-------+----------+---------------------------------------------------------------------------------------------------------------+
-| Sub   | Headings | Too                                                                                                           |
-+=======+==========+===============================================================================================================+
-| cell  | column spanning                                                                                                          |
-+ spans +----------+---------------------------------------------------------------------------------------------------------------+
-| rows  | normal   | cell                                                                                                          |
-+-------+----------+-----+---------------------------------------------------------------------------------------------------------+
-|.. code:: python        |.. image:: Assets/planet.gif                                                                             |
-|                        |                                                                                                         |
-|  Sanjay Shivakumar = { |                                                                                                         |
-|   'Alias': Savarin     |                                                                                                         |
-|   'Major': Mathematics,|                                                                                                         |
-+------------------------+---------------------------------------------------------------------------------------------------------+
-
----
-
-- Senior mathematics major with a concentration in computing at the University of Massachusetts Amherst
-- ``**< 🙂 >** I’m interested in data science, technical analysis(finance), and full stack development **</ 🙃 >**``
 
 Humble brag:
 My profiles:
