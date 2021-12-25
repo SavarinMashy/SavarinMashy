@@ -20,12 +20,12 @@
 .. |p| raw:: html
 
   <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a>
-  <h3 align = "center"> 私 <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
+  <h3 align = "center"> 私&nbsp <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
 
 
 .. |d| raw:: html
 
-  <h4><samp>👋🏽 Glad you found my profile</samp></h4>
+  <h4><samp>👋🏽 &nbspGlad you found my profile</samp></h4>
 
 
 .. |l| raw:: html
