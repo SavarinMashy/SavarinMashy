@@ -8,11 +8,11 @@
 +       +                                                                                                                          +
 +       + .. code-block:: python                                                                                                   +
 +       +                                                                                                                          +
-+       +  Sanjay_Shivakumar = {                                                                                                   +
++       +  Sanjay·Shivakumar = {                                                                                                   +
 +       +      'Alias': Savarin,                                                                                                   +
 +       +      'Major': (Mathematics, 2022),                                                                                       +
 +       +      'Concentration': Computing,                                                                                         +
-+       +      'Recreation': [ Design, Photograpy ]                                                                                +
++       +      'Recreation': [Design, Photograpy]                                                                                  +
 +       +    }  # ¯\_(ツ)_/¯                                                                                                       +
 +       +--------------------------------------------------------------------------------------------------------------------------+
 |       | |l|                                                                                                                      |
@@ -43,23 +43,26 @@
 .. |di| raw:: html
 
   <p align = "center"> 
-  <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/linkin.png" width="20px"></a>&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/codpen.png" width="20px"></a>&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/unsash.png" width="20px"></a>&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="Figma (Design Showcase)"><img src="Assets/figma.png" height="20px"></a>
+  <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/lkn.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/cpn.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/uph.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="sanjayshivakumar.com" title="Figma (Design Showcase)"><img src="Assets/fga.png" height="20px"></a>
   </p>
    
 .. raw:: html
 
- <samp>Inclined toward front-end development, however, I'm quite versatile and<br>
+ <samp>Inclined toward front-end development, however, I'm quite versatile and also<br>
  interested in data science, technical analysis, and full-stack development</samp>
  
-Get in touch
-=======
-
+|
+ 
 .. raw:: html
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sashiku.sashiku">
+  <p><samp>Get in touch: &nbsp<a href="mailto:sanjayshivak@umass.edu">sanjayshivak@umass.edu</a></samp></p>
+  
+.. .. raw:: html
+
+  <img src="Assets/terran.gif" width="175px">
 
 .. . _an anchor:
   `A heading`_ 
@@ -90,4 +93,18 @@ Get in touch
  - Discrete Mathematics
  - Geometric Topology
  view all tooling   ``'Alias': Savarin,``
- ✨
+ ✨ add better visitors badge more robust this does not load sometimes
+ 
+ 𝔾𝕖𝕥 𝕚𝕟 𝕥𝕠𝕦𝕔𝕙
+ =======
+ 
+ =======
+ 
+ .. raw:: html
+
+  <pre>
+  <code>
+    var sauce = 1
+    body { background-color: #eee; }
+  </code>
+  </pre>
