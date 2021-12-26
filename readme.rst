@@ -27,7 +27,7 @@
 
 .. |d| raw:: html
 
-  <h4><samp>👋🏽 &nbspGlad you found my profile</samp></h4>
+  <h4><samp>👋🏼 &nbspGlad you found my profile</samp></h4>
 
 
 .. |l| raw:: html
