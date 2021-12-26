@@ -12,7 +12,7 @@
 +       +      'Alias': Savarin,                                                                                                   +
 +       +      'Major': (Mathematics, 2022),                                                                                       +
 +       +      'Concentration': Computing,                                                                                         +
-+       +      'Recreation': [Design, Photograpy]                                                                                  +
++       +      'Recreation': [Design, Photography]                                                                                  +
 +       +    }  # ¯\_(ツ)_/¯                                                                                                       +
 +       +--------------------------------------------------------------------------------------------------------------------------+
 |       | |l|                                                                                                                      |
