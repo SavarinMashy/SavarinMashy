@@ -22,7 +22,7 @@
 .. |p| raw:: html
 
   <a href="sanjayshivakumar.com" title="My website"><img src="Assets/planet.gif" align="center"></a>
-  <h3 align = "center"> 私&nbsp <samp><a href="sanjayshivakumar.com" title="My website">website</a></samp></h3>
+  <h3 align = "center"> 私の&nbsp <samp><a href="sanjayshivakumar.com" title="My website">website</a></samp></h3>
 
 
 .. |d| raw:: html
