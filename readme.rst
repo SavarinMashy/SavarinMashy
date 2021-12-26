@@ -21,8 +21,8 @@
 
 .. |p| raw:: html
 
-  <a href="sanjayshivakumar.com"><img src="Assets/planet.gif" align="center"></a>
-  <h3 align = "center"> 私&nbsp <samp><a href="sanjayshivakumar.com">website</a></samp></h3>
+  <a href="sanjayshivakumar.com" title="My website"><img src="Assets/planet.gif" align="center"></a>
+  <h3 align = "center"> 私&nbsp <samp><a href="sanjayshivakumar.com" title="My website">website</a></samp></h3>
 
 
 .. |d| raw:: html
@@ -37,7 +37,7 @@
   
 .. |c| raw:: html
 
-  <p align = "center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"></a></p>
+  <p align = "center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kogfcn5sjq2ywtjmuolnefrl54&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" title="spotify"></a></p>
 
 
 .. |di| raw:: html
@@ -46,7 +46,7 @@
   <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/lkn.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/cpn.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/uph.png" width="20px"></a>&nbsp&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="Figma (Design Showcase)"><img src="Assets/fga.png" height="20px"></a>
+  <a href="sanjayshivakumar.com" title="Figma (Design)"><img src="Assets/fga.png" height="20px"></a>
   </p>
    
 .. raw:: html
@@ -58,7 +58,7 @@
  
 .. raw:: html
 
-  <p><samp>Get in touch: &nbsp<a href="mailto:sanjayshivak@umass.edu">sanjayshivak@umass.edu</a></samp></p>
+  <p><samp>Get in touch:<sub><a href="mailto:sanjayshivak@umass.edu" title="email"><img src="Assets/kitt.gif" width="50px"></sub><a href="mailto:sanjayshivak@umass.edu" title="email">sanjayshivak@umass.edu</a></samp></p>
   
 .. .. raw:: html
 
