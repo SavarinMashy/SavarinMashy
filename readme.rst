@@ -27,7 +27,7 @@
 
 .. |d| raw:: html
 
-  <h4><samp>👋🏼 &nbspGlad you found my profile</samp></h4>
+  <h3><sup><samp>👋🏼 &nbspGlad you found my profile</samp></sup></h3>
 
 
 .. |l| raw:: html
@@ -55,7 +55,7 @@
  interested in data science, technical analysis, and full-stack development</samp>
  
 |
- 
+
 .. raw:: html
 
   <p><samp>Get in touch:<sub><a href="mailto:sanjayshivak@umass.edu" title="email"><img src="Assets/kitt.gif" width="50px"></sub><a href="mailto:sanjayshivak@umass.edu" title="email">sanjayshivak@umass.edu</a></samp></p>
