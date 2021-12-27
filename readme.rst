@@ -21,8 +21,8 @@
 
 .. |p| raw:: html
 
-  <a href="sanjayshivakumar.com" title="My website"><img src="Assets/planet.gif" align="center"></a>
-  <h3 align = "center"> 私の&nbsp <samp><a href="sanjayshivakumar.com" title="My website">website</a></samp></h3>
+  <a href="" title="My website"><img src="Assets/planet.gif" align="center"></a>
+  <h3 align = "center"> 私の&nbsp <samp><a href="" title="My website">website</a></samp></h3>
 
 
 .. |d| raw:: html
@@ -43,9 +43,9 @@
 .. |di| raw:: html
 
   <p align = "center"> 
-  <a href="sanjayshivakumar.com" title="LinkedIn"><img src="Assets/lkn.png" width="20px"></a>&nbsp&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="CodePen"><img src="Assets/cpn.png" width="20px"></a>&nbsp&nbsp&nbsp
-  <a href="sanjayshivakumar.com" title="Unsplash (Photography)"><img src="Assets/uph.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="" title="LinkedIn"><img src="Assets/lkn.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="" title="CodePen"><img src="Assets/cpn.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="https://unsplash.com/@savarin" title="Unsplash (Photography)"><img src="Assets/uph.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="https://www.figma.com/file/58J9oEZT7uH0sqbqHfu50B/Portfolio-Showcase?node-id=0%3A1" title="Figma (Design)"><img src="Assets/fga.png" height="20px"></a>
   </p>
    
