@@ -51,8 +51,8 @@
    
 .. raw:: html
 
- <samp>Inclined toward front-end development, however, I'm quite versatile and<br>
- capable as a full-stack developer, data scientist, and technical analyst</samp>
+ <samp>Inclined toward front-end development; I design and build joyous user experiences. Also quite</br>
+ versatile and capable as a full-stack developer. I dabble in data science and technical analysis</samp>
  
 |
 
@@ -63,6 +63,8 @@
 .. .. raw:: html
 
   <img src="Assets/terran.gif" width="175px">
+  
+ 
 
 .. . _an anchor:
   `A heading`_ 
