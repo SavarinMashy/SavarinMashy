@@ -51,8 +51,8 @@
    
 .. raw:: html
 
- <samp>Inclined toward front-end development, however, I'm quite versatile and also<br>
- interested in data science, technical analysis, and full-stack development</samp>
+ <samp>Inclined toward front-end development, however, I'm quite versatile and<br>
+ capable as a full-stack developer, data scientist, and technical analyst</samp>
  
 |
 
