@@ -51,7 +51,8 @@
    
 .. raw:: html
 
- <samp>Inclined toward front-end development; I design and build joyous user experiences. Also quite versatile and capable as a full-stack developer. I dabble in data science and technical analysis</samp>
+ <samp>Inclined toward front-end development. Also quite versatile and capable<br> 
+ as a full-stack developer. I dabble in data science and technical analysis</samp>
  
 |
 
