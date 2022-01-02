@@ -43,7 +43,7 @@
 .. |di| raw:: html
 
   <p align = "center"> 
-  <a href="" title="LinkedIn"><img src="Assets/lkn.png" width="20px"></a>&nbsp&nbsp&nbsp
+  <a href="" title="LinkedIn"><img src="Assets/lin.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="" title="CodePen"><img src="Assets/con.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="https://unsplash.com/@savarin" title="Unsplash (Photography)"><img src="Assets/uph.png" width="20px"></a>&nbsp&nbsp&nbsp
   <a href="https://www.figma.com/file/58J9oEZT7uH0sqbqHfu50B/Portfolio-Showcase?node-id=0%3A1" title="Figma (Design)"><img src="Assets/fga.png" height="20px"></a>
