@@ -9,7 +9,7 @@
 +       + .. code-block:: python                                                                                                   +
 +       +                                                                                                                          +
 +       +  Sanjay·Shivakumar = {                                                                                                   +
-+       +      'Alias': Savarin,                                                                                                   +
++       +      'Alias': Sashiku,                                                                                                   +
 +       +      'Major': (Mathematics, 2022),                                                                                       +
 +       +      'Concentration': Computing,                                                                                         +
 +       +      'Recreation': [Design, Photography]                                                                                 +
