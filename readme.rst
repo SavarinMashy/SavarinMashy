@@ -21,8 +21,8 @@
 
 .. |p| raw:: html
 
-  <a href="" title="My website"><img src="Assets/planet.gif" align="center"></a>
-  <h3 align = "center"> 私の&nbsp <samp><a href="" title="My website">website</a></samp></h3>
+  <a href="https://sanjayshivakumar.com/" title="My website"><img src="Assets/planet.gif" align="center"></a>
+  <h3 align = "center"> 私の&nbsp <samp><a href="https://sanjayshivakumar.com/" title="My website">website</a></samp></h3>
 
 
 .. |d| raw:: html
